@@ -1,0 +1,14 @@
+org/kedar/PredicatesReturnBoolean.class
+org/kedar/extras/Person$Gender.class
+org/kedar/extras/Person.class
+org/kedar/extras/Employee.class
+org/kedar/impl/StreamWithMapExamples.class
+org/kedar/impl/StreamWithMiscExamples.class
+org/kedar/impl/StreamWithFilterExamples.class
+org/kedar/impl/StreamWithComparatorExamples.class
+org/kedar/OptionalsAPI.class
+org/kedar/WithLambdaExpressions.class
+org/kedar/NonLambdaExpressions.class
+org/kedar/FunctionsReturnValue.class
+org/kedar/SupplierReturnsStuff.class
+org/kedar/ConsumersReturnVoid.class
