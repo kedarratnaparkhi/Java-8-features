@@ -1,4 +1,4 @@
-package org.kedar;
+package org.kedar.impl;
 
 import org.kedar.extras.Person;
 

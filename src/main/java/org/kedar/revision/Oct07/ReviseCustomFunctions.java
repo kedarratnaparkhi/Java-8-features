@@ -10,10 +10,14 @@ public class ReviseCustomFunctions {
     public static void main(String[] args) {
         List<Employee> employees = Employee.listOfEmployees;
 
-        runCustomFunction(employees);
-        runCustomPredicate(employees);
-        runCustomConsumer(employees);
-        runCustomSupplier(employees);
+//        runCustomFunction(employees);
+//        runCustomPredicate(employees);
+//        runCustomConsumer(employees);
+//        runCustomSupplier(employees);
+
+        Consumer<Employee> customConsumer = (e) -> System.out.println(e.getName());
+
+        customConsumer.accept(employees.get(1));
 
     }
 
